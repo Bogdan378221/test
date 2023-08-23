@@ -1,1 +1,7 @@
-echo hello how are you
+echo instaling hello
+cd /
+cd bin
+wget https://raw.githubusercontent.com/Bogdan378221/test2/hello
+chmod +x hello
+cd ~
+echo done use hello to run
